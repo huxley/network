@@ -47,9 +47,3 @@ desktop.ini
 *.swo
 .history/
 
-# Binary and Large Files
-*.zip
-*.jpeg
-*.jpg
-*.png
-*.gif
